@@ -1,0 +1,19 @@
+site_name: Documentacion Proyecto
+
+docs_dir: docs_src
+
+nav:
+  - Inicio: index.md
+  - Actividad 2:
+      - Introducción: actividad_2/index.md
+      - Manual de Usuario: actividad_2/Manual_de_Usuario.md
+      - Guía de Referencia: actividad_2/Guia_de_Referencia.md
+      - Guía de Instalación: actividad_2/Guia_de_Instalacion.md
+  - Actividad 3:
+      - Introducción: actividad_3/index.md
+      - Manual de Usuario: actividad_3/Manual_de_Usuario.pdf
+      - Guía de Referencia: actividad_3/Guia_de_Referencia.pdf
+      - Guía de Instalación: actividad_3/Guia_de_Instalacion.pdf
+
+theme:
+  name: material
