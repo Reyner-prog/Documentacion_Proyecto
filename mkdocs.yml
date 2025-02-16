@@ -3,7 +3,6 @@ site_name : Documentacion Proyecto
 docs_dir : docs_src
 
 nav:
-  - Inicio: index.md
   - Actividad 2:
       - Introducción: actividad_2/index.md
       - Manual de Usuario: actividad_2/Manual_de_Usuario.md
